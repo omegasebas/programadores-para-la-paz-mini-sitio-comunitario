@@ -30,7 +30,7 @@ Resultado observado:
 ¿Funcionó?
 Respuesta:
 
-Prueba 3: Cargar calendario editorial
+Prueba 3: Cargar calendario editorial_
 
 Acción:
 Hacer clic en Cargar calendario.
@@ -41,7 +41,7 @@ Aparecen 6 piezas del calendario editorial.
 Resultado observado:
 
 ¿Funcionó?
-Respuesta:
+Respuesta:si
 
 Prueba 4: Ruta directa de mensajes
 

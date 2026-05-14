@@ -39,3 +39,5 @@ git status
 git add .
 git commit -m "Clase 21 inicio proyecto unico mini sitio"
 git push -u origin nombres_apellidos
+
+Clase 22: tablero de mensajes comunitarios y accesibilidad.
