@@ -51,7 +51,7 @@ Este proyecto trabaja:
 │   └── styles.css
 ├── semana5/
 └── instrucciones/
-Instalación
+****Instalación
 Clonar el repositorio:
 git clone URL_DEL_REPOSITORIO
 Entrar al proyecto:
